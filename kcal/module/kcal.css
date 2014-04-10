@@ -1,0 +1,11 @@
+a.jonnieio-link{
+    color: #000000;
+}
+a.jonnieio-link:hover{
+    color: #428bca;
+    text-decoration: none;
+}
+.kcal-flash{
+	padding: 5px;
+	padding-left: 15px;
+}
