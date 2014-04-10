@@ -1,3 +1,6 @@
+#Angular-Kcal
+A small angular js module that will calculate a peron's Calorie Intake based on metabolic, activity level, age and sex.  
+
 ###Instructions
 
  1. Add Kcal folder to to your route directory
@@ -19,3 +22,5 @@
 	<script src="kcal/module/kcal.module.js"></script>
 	<script src="kcal/module/kcal.controller.js"></script>
 	```
+#####ScreenShot
+![Screenshot](https://github.com/jonniedarko/angular-kcal/blob/master/screenshot.png?raw=true "Screenshot")
