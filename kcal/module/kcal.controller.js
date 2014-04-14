@@ -28,7 +28,7 @@ app.controller('KCalCtrl', function($scope) {
                                     ,value: 1.55
                                 }
                                 ,{
-                                    title: "Heavey Exercise"
+                                    title: "Heavy Exercise"
                                     ,description: "You Exercise 6-7 times a week"
                                     ,value: 1.725
                                 }
